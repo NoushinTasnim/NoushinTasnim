@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dribbble.com/n0ush1n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="n0ush1n" height="30" width="40" /></a>
+<a href="https://dribbble.com/N0USH1N" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="n0ush1n" height="30" width="40" /></a>
 <a href="https://www.behance.net/n0ush1n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="n0ush1n" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCPXi6Yp_y3nBjGn-GKKvltA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="noushin tasnim" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/n0ush1n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="n0ush1n" height="30" width="40" /></a>
