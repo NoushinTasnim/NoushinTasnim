@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Noushin</h1>
+<h1 align="center">Hi 👋, I'm Noushin</h1>
 <h3 align="center">An undergraduate student, a passionate graphic designer & developer from Bangladesh</h3>
 
 - 📫 How to reach me **noushintasnim.2615@gmail.com**
